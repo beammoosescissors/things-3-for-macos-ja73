@@ -1,4 +1,4 @@
-
+exclusive Automation for Things 3 for macOS - note encryption and markdown support is the best Things 3 for macOS automation, featuring note encryption and markdown support. Safe,
 
 
 
